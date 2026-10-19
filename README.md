@@ -19,4 +19,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Shruti070107/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+## Array
+|  |
+| ------- |
+| [1470-shuffle-the-array](https://github.com/Shruti070107/Leetcode/tree/master/1470-shuffle-the-array) |
 <!---LeetCode Topics End-->
