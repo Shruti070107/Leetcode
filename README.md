@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/Shruti070107/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
+| [0092-reverse-linked-list-ii](https://github.com/Shruti070107/Leetcode/tree/master/0092-reverse-linked-list-ii) |
 ## Recursion
 |  |
 | ------- |
