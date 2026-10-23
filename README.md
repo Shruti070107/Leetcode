@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Shruti070107/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Shruti070107/Leetcode/tree/master/0155-min-stack) |
 | [0402-remove-k-digits](https://github.com/Shruti070107/Leetcode/tree/master/0402-remove-k-digits) |
+| [0682-baseball-game](https://github.com/Shruti070107/Leetcode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Shruti070107/Leetcode/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/Shruti070107/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Shruti070107/Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Shruti070107/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0485-max-consecutive-ones](https://github.com/Shruti070107/Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0682-baseball-game](https://github.com/Shruti070107/Leetcode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Shruti070107/Leetcode/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/Shruti070107/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Shruti070107/Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/Shruti070107/Leetcode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Shruti070107/Leetcode/tree/master/0735-asteroid-collision) |
 ## Math
 |  |
