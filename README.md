@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/Shruti070107/Leetcode/tree/master/0402-remove-k-digits) |
 | [0682-baseball-game](https://github.com/Shruti070107/Leetcode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Shruti070107/Leetcode/tree/master/0735-asteroid-collision) |
+| [0901-online-stock-span](https://github.com/Shruti070107/Leetcode/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/Shruti070107/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Shruti070107/Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1544-make-the-string-great](https://github.com/Shruti070107/Leetcode/tree/master/1544-make-the-string-great) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/Shruti070107/Leetcode/tree/master/0402-remove-k-digits) |
+| [0901-online-stock-span](https://github.com/Shruti070107/Leetcode/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/Shruti070107/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Shruti070107/Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 ## Simulation
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Shruti070107/Leetcode/tree/master/0155-min-stack) |
+| [0901-online-stock-span](https://github.com/Shruti070107/Leetcode/tree/master/0901-online-stock-span) |
 ## String
 |  |
 | ------- |
@@ -84,4 +87,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Shruti070107/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/Shruti070107/Leetcode/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
