@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Shruti070107/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/Shruti070107/Leetcode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Shruti070107/Leetcode/tree/master/0735-asteroid-collision) |
+| [0817-linked-list-components](https://github.com/Shruti070107/Leetcode/tree/master/0817-linked-list-components) |
 | [0907-sum-of-subarray-minimums](https://github.com/Shruti070107/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Shruti070107/Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1470-shuffle-the-array](https://github.com/Shruti070107/Leetcode/tree/master/1470-shuffle-the-array) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Shruti070107/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Shruti070107/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0092-reverse-linked-list-ii](https://github.com/Shruti070107/Leetcode/tree/master/0092-reverse-linked-list-ii) |
+| [0817-linked-list-components](https://github.com/Shruti070107/Leetcode/tree/master/0817-linked-list-components) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Shruti070107/Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [2074-reverse-nodes-in-even-length-groups](https://github.com/Shruti070107/Leetcode/tree/master/2074-reverse-nodes-in-even-length-groups) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Shruti070107/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -110,4 +112,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Shruti070107/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0817-linked-list-components](https://github.com/Shruti070107/Leetcode/tree/master/0817-linked-list-components) |
 <!---LeetCode Topics End-->
