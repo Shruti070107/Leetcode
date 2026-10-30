@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-next-greater-node-in-linked-list](https://github.com/Shruti070107/Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/Shruti070107/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Shruti070107/Leetcode/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
+| [1472-design-browser-history](https://github.com/Shruti070107/Leetcode/tree/master/1472-design-browser-history) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Shruti070107/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1544-make-the-string-great](https://github.com/Shruti070107/Leetcode/tree/master/1544-make-the-string-great) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/Shruti070107/Leetcode/tree/master/1673-find-the-most-competitive-subsequence) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0946-validate-stack-sequences](https://github.com/Shruti070107/Leetcode/tree/master/0946-validate-stack-sequences) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Shruti070107/Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1470-shuffle-the-array](https://github.com/Shruti070107/Leetcode/tree/master/1470-shuffle-the-array) |
+| [1472-design-browser-history](https://github.com/Shruti070107/Leetcode/tree/master/1472-design-browser-history) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Shruti070107/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/Shruti070107/Leetcode/tree/master/1673-find-the-most-competitive-subsequence) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Shruti070107/Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/Shruti070107/Leetcode/tree/master/0155-min-stack) |
 | [0901-online-stock-span](https://github.com/Shruti070107/Leetcode/tree/master/0901-online-stock-span) |
+| [1472-design-browser-history](https://github.com/Shruti070107/Leetcode/tree/master/1472-design-browser-history) |
 ## String
 |  |
 | ------- |
@@ -122,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0092-reverse-linked-list-ii](https://github.com/Shruti070107/Leetcode/tree/master/0092-reverse-linked-list-ii) |
 | [0817-linked-list-components](https://github.com/Shruti070107/Leetcode/tree/master/0817-linked-list-components) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Shruti070107/Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
+| [1472-design-browser-history](https://github.com/Shruti070107/Leetcode/tree/master/1472-design-browser-history) |
 | [2074-reverse-nodes-in-even-length-groups](https://github.com/Shruti070107/Leetcode/tree/master/2074-reverse-nodes-in-even-length-groups) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Shruti070107/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Shruti070107/Leetcode/tree/master/2181-merge-nodes-in-between-zeros) |
@@ -142,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/Shruti070107/Leetcode/tree/master/0901-online-stock-span) |
+| [1472-design-browser-history](https://github.com/Shruti070107/Leetcode/tree/master/1472-design-browser-history) |
 ## Hash Table
 |  |
 | ------- |
@@ -182,4 +187,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Shruti070107/Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/Shruti070107/Leetcode/tree/master/1472-design-browser-history) |
 <!---LeetCode Topics End-->
