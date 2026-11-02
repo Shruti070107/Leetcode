@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/Shruti070107/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Shruti070107/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0946-validate-stack-sequences](https://github.com/Shruti070107/Leetcode/tree/master/0946-validate-stack-sequences) |
+| [0962-maximum-width-ramp](https://github.com/Shruti070107/Leetcode/tree/master/0962-maximum-width-ramp) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Shruti070107/Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/Shruti070107/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Shruti070107/Leetcode/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0817-linked-list-components](https://github.com/Shruti070107/Leetcode/tree/master/0817-linked-list-components) |
 | [0907-sum-of-subarray-minimums](https://github.com/Shruti070107/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [0946-validate-stack-sequences](https://github.com/Shruti070107/Leetcode/tree/master/0946-validate-stack-sequences) |
+| [0962-maximum-width-ramp](https://github.com/Shruti070107/Leetcode/tree/master/0962-maximum-width-ramp) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Shruti070107/Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1470-shuffle-the-array](https://github.com/Shruti070107/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1472-design-browser-history](https://github.com/Shruti070107/Leetcode/tree/master/1472-design-browser-history) |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Shruti070107/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0901-online-stock-span](https://github.com/Shruti070107/Leetcode/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/Shruti070107/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
+| [0962-maximum-width-ramp](https://github.com/Shruti070107/Leetcode/tree/master/0962-maximum-width-ramp) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Shruti070107/Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Shruti070107/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/Shruti070107/Leetcode/tree/master/1673-find-the-most-competitive-subsequence) |
@@ -161,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Shruti070107/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0455-assign-cookies](https://github.com/Shruti070107/Leetcode/tree/master/0455-assign-cookies) |
 | [0917-reverse-only-letters](https://github.com/Shruti070107/Leetcode/tree/master/0917-reverse-only-letters) |
+| [0962-maximum-width-ramp](https://github.com/Shruti070107/Leetcode/tree/master/0962-maximum-width-ramp) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Shruti070107/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Shruti070107/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Data Stream
