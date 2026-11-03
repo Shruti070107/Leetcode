@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Shruti070107/Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Shruti070107/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2537-count-the-number-of-good-subarrays](https://github.com/Shruti070107/Leetcode/tree/master/2537-count-the-number-of-good-subarrays) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Shruti070107/Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Shruti070107/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Shruti070107/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Shruti070107/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Shruti070107/Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Design
 |  |
 | ------- |
