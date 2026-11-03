@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-next-greater-node-in-linked-list](https://github.com/Shruti070107/Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/Shruti070107/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Shruti070107/Leetcode/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
+| [1441-build-an-array-with-stack-operations](https://github.com/Shruti070107/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1472-design-browser-history](https://github.com/Shruti070107/Leetcode/tree/master/1472-design-browser-history) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Shruti070107/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1544-make-the-string-great](https://github.com/Shruti070107/Leetcode/tree/master/1544-make-the-string-great) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0946-validate-stack-sequences](https://github.com/Shruti070107/Leetcode/tree/master/0946-validate-stack-sequences) |
 | [0962-maximum-width-ramp](https://github.com/Shruti070107/Leetcode/tree/master/0962-maximum-width-ramp) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Shruti070107/Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
+| [1441-build-an-array-with-stack-operations](https://github.com/Shruti070107/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1470-shuffle-the-array](https://github.com/Shruti070107/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1472-design-browser-history](https://github.com/Shruti070107/Leetcode/tree/master/1472-design-browser-history) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Shruti070107/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/Shruti070107/Leetcode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Shruti070107/Leetcode/tree/master/0735-asteroid-collision) |
 | [0946-validate-stack-sequences](https://github.com/Shruti070107/Leetcode/tree/master/0946-validate-stack-sequences) |
+| [1441-build-an-array-with-stack-operations](https://github.com/Shruti070107/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Shruti070107/Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Shruti070107/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Shruti070107/Leetcode/tree/master/2181-merge-nodes-in-between-zeros) |
