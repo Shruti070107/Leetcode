@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0946-validate-stack-sequences](https://github.com/Shruti070107/Leetcode/tree/master/0946-validate-stack-sequences) |
 | [0962-maximum-width-ramp](https://github.com/Shruti070107/Leetcode/tree/master/0962-maximum-width-ramp) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Shruti070107/Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
+| [1052-grumpy-bookstore-owner](https://github.com/Shruti070107/Leetcode/tree/master/1052-grumpy-bookstore-owner) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Shruti070107/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Shruti070107/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1470-shuffle-the-array](https://github.com/Shruti070107/Leetcode/tree/master/1470-shuffle-the-array) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [1052-grumpy-bookstore-owner](https://github.com/Shruti070107/Leetcode/tree/master/1052-grumpy-bookstore-owner) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Shruti070107/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1695-maximum-erasure-value](https://github.com/Shruti070107/Leetcode/tree/master/1695-maximum-erasure-value) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Shruti070107/Leetcode/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
