@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Shruti070107/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1544-make-the-string-great](https://github.com/Shruti070107/Leetcode/tree/master/1544-make-the-string-great) |
 | [1717-maximum-score-from-removing-substrings](https://github.com/Shruti070107/Leetcode/tree/master/1717-maximum-score-from-removing-substrings) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/Shruti070107/Leetcode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Shruti070107/Leetcode/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Greedy
 |  |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Shruti070107/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Shruti070107/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1695-maximum-erasure-value](https://github.com/Shruti070107/Leetcode/tree/master/1695-maximum-erasure-value) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/Shruti070107/Leetcode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Shruti070107/Leetcode/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2537-count-the-number-of-good-subarrays](https://github.com/Shruti070107/Leetcode/tree/master/2537-count-the-number-of-good-subarrays) |
 ## Binary Search
@@ -261,8 +263,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0456-132-pattern](https://github.com/Shruti070107/Leetcode/tree/master/0456-132-pattern) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Shruti070107/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/Shruti070107/Leetcode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 ## Ordered Set
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/Shruti070107/Leetcode/tree/master/0456-132-pattern) |
+## Prefix Sum
+|  |
+| ------- |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/Shruti070107/Leetcode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 <!---LeetCode Topics End-->
