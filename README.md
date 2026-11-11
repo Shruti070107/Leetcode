@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Shruti070107/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Shruti070107/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Shruti070107/Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/Shruti070107/Leetcode/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Design
 |  |
 | ------- |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Shruti070107/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/Shruti070107/Leetcode/tree/master/1673-find-the-most-competitive-subsequence) |
 | [1717-maximum-score-from-removing-substrings](https://github.com/Shruti070107/Leetcode/tree/master/1717-maximum-score-from-removing-substrings) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/Shruti070107/Leetcode/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Linked List
 |  |
 | ------- |
