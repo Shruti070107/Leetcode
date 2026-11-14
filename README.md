@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Shruti070107/Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Shruti070107/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2537-count-the-number-of-good-subarrays](https://github.com/Shruti070107/Leetcode/tree/master/2537-count-the-number-of-good-subarrays) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Shruti070107/Leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3693-climbing-stairs-ii](https://github.com/Shruti070107/Leetcode/tree/master/3693-climbing-stairs-ii) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Shruti070107/Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Dynamic Programming
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Shruti070107/Leetcode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Shruti070107/Leetcode/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2537-count-the-number-of-good-subarrays](https://github.com/Shruti070107/Leetcode/tree/master/2537-count-the-number-of-good-subarrays) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Shruti070107/Leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 ## Binary Search
 |  |
 | ------- |
@@ -285,4 +287,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Shruti070107/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Shruti070107/Leetcode/tree/master/2024-maximize-the-confusion-of-an-exam) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Shruti070107/Leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 <!---LeetCode Topics End-->
