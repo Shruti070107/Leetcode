@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Shruti070107/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0071-simplify-path](https://github.com/Shruti070107/Leetcode/tree/master/0071-simplify-path) |
+| [0076-minimum-window-substring](https://github.com/Shruti070107/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0402-remove-k-digits](https://github.com/Shruti070107/Leetcode/tree/master/0402-remove-k-digits) |
 | [0856-score-of-parentheses](https://github.com/Shruti070107/Leetcode/tree/master/0856-score-of-parentheses) |
 | [0917-reverse-only-letters](https://github.com/Shruti070107/Leetcode/tree/master/0917-reverse-only-letters) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/Shruti070107/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0138-copy-list-with-random-pointer](https://github.com/Shruti070107/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0454-4sum-ii](https://github.com/Shruti070107/Leetcode/tree/master/0454-4sum-ii) |
 | [0496-next-greater-element-i](https://github.com/Shruti070107/Leetcode/tree/master/0496-next-greater-element-i) |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/Shruti070107/Leetcode/tree/master/0076-minimum-window-substring) |
 | [1052-grumpy-bookstore-owner](https://github.com/Shruti070107/Leetcode/tree/master/1052-grumpy-bookstore-owner) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Shruti070107/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Shruti070107/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
