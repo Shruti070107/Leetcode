@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Shruti070107/Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Shruti070107/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Shruti070107/Leetcode/tree/master/2181-merge-nodes-in-between-zeros) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Shruti070107/Leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Math
 |  |
 | ------- |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1544-make-the-string-great](https://github.com/Shruti070107/Leetcode/tree/master/1544-make-the-string-great) |
 | [1717-maximum-score-from-removing-substrings](https://github.com/Shruti070107/Leetcode/tree/master/1717-maximum-score-from-removing-substrings) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Shruti070107/Leetcode/tree/master/2024-maximize-the-confusion-of-an-exam) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Shruti070107/Leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Shruti070107/Leetcode/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Greedy
 |  |
